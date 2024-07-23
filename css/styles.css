@@ -539,6 +539,7 @@ padding-bottom: 120px;
         letter-spacing: 0.02em;
         color: #fff;
         margin-bottom: 16px;
+        margin-left: 540;
     }
 
     .icon-list{
@@ -568,3 +569,7 @@ padding-bottom: 120px;
     .icon-link:focus{
       background-color: #31d0aa;
     }
+
+        .icons-subtitle-footer {
+          fill: #f4f4fd;
+        }
