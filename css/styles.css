@@ -543,9 +543,9 @@ padding-bottom: 120px;
         
     }
 
-    .icon-list{
+    .icon-list-footer{
       display: flex;
-      gap: 24px;
+      gap: 16px;
     }
 
     .icon-item-footer{
